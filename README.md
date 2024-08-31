@@ -9,12 +9,6 @@
 - Managers should be able to fully manage categories and menu items, they can also update orders, assign delivery crew orders and assign customers a group
 - Delivery crew users should be able to update their assigned orders
 
-## Live API
-
-[View Live API Website/Docs](https://little-lemon-backend.onrender.com/)
-
-![Deployed backend website with documentation screenshot](https://github.com/mehdiaitouchrif/little-lemon-backend/assets/112659075/349fb2ef-3156-4573-ac71-1e89e8a959f2)
-
 ## Installation
 
 1. Clone the repository
